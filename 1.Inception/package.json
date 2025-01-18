@@ -1,9 +1,11 @@
-{
+ {
   "name": "namste-react",
   "version": "1.0.0",
   "description": "Namste react By Akshay Saini",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
   },
   "keywords": [],
   "author": "Saiprasad Patne",
